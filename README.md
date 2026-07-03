@@ -1,3 +1,5 @@
+Файлы .md лучше смотреть в режиме code. В папке docs/screenshot изображение работающего устройства. 
+
 Wi-Fi FPGA Logic Analyzer
 
 Wi-Fi FPGA Logic Analyzer — это демонстрационный embedded-проект логического анализатора на базе FPGA DE0-Nano Cyclone IV, STM32H743ZIT6 и ESP32-C6.
