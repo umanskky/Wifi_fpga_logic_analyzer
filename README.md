@@ -312,21 +312,21 @@ wifi-fpga-logic-analyzer/
 │   ├── architecture.md
 │   ├── wiring.md
 │   ├── protocol.md
+|      ...
 │   └── screenshots/
 │
 ├── fpga/
 │   ├── rtl/
-│   ├── tb/
 │   └── quartus/
+│   
 │
 ├── stm32/
 │   └── STM32H743_LogicAnalyzer/
 │
 ├── esp32/
 │   └── esp32_c6_web_ui/
-│
-└── tools/
-    └── README.md
+
+
 
 Возможные улучшения
 
