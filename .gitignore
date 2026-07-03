@@ -1,0 +1,62 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Backup files
+*.bak
+*.orig
+*.tmp
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Quartus generated files
+fpga/**/db/
+fpga/**/incremental_db/
+fpga/**/output_files/
+*.qws
+*.rpt
+*.summary
+*.done
+*.smsg
+*.jdi
+*.sof
+*.pof
+*.pin
+*.qmsg
+*.cdb
+*.hdb
+*.rdb
+*.ddb
+*.logdb
+*.sld
+*.jditmp
+
+# Keil / MDK build outputs
+stm32/**/MDK-ARM/stm_logic_analyzer/
+*.o
+*.d
+*.axf
+*.hex
+*.map
+*.htm
+*.lnp
+*.dep
+*.crf
+*.lst
+*.build_log.htm
+
+# Keil user-specific files
+*.uvguix.*
+*.uvgui.*
+*.uvoptx
+
+# STM32CubeIDE build outputs
+Debug/
+Release/
+build/
+*.elf
+*.bin
+*.list
